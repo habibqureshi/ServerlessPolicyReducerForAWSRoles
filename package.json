@@ -1,6 +1,6 @@
 {
   "name": "policy-reducer-for-aws-enterprise-logaccess-role",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "policy-reducer-for-aws-enterprise-logaccess-role",
   "main": "index.js",
   "scripts": {

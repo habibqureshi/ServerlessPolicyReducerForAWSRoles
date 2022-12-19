@@ -4,7 +4,6 @@ class PolicyReducerForEnterpriseLogAccessIamRole {
   constructor(serverless) {
     this.serverless = serverless;
     this.hooks = {
-      initialize: () => this.init(),
       "before:package:finalize": () => this.beforePackageFinalize(),
     };
   }
