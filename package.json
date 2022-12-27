@@ -1,6 +1,6 @@
 {
   "name": "policy-reducer-for-aws-enterprise-logaccess-role",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Maximum policy size of 10240 bytes exceeded for role EnterpriseLogAccessIamRole",
   "main": "index.js",
   "scripts": {
