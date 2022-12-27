@@ -1,7 +1,7 @@
 {
   "name": "policy-reducer-for-aws-enterprise-logaccess-role",
   "version": "1.0.1",
-  "description": "policy-reducer-for-aws-enterprise-logaccess-role",
+  "description": "Maximum policy size of 10240 bytes exceeded for role EnterpriseLogAccessIamRole",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,16 @@
   "author": {
     "name":"Habib Qureshi",
     "email":"habibqureshi1995@gmail.com"
+  },
+  "keywords": [
+    "aws",
+    "serverless",
+    "lambda",
+    "node"  
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/habibqureshi/ServerlessPolicyReducerForAWSRoles"
   },
   "license": "ISC"
 }
